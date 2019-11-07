@@ -1,7 +1,7 @@
 # "Кто поставит лайк" (хакатон от Тинькофф и McKinsey)
 
 ## Команда:
-* @Robot173
+* https://github.com/Robot173
 * https://github.com/EienKotonaru
 
 ## Выполнение:
